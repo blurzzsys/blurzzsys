@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Blurzz and I'm a Developer. Owner of  https://fluxteam.cc</h2>
+<h2 align="center">Hi 👋! My name is Blurzz and I'm a Developer. Owner of  SubZero https://getsubz.xyz</h2>
 
 ###
 
