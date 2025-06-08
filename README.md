@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Blurzz and I'm a Developer. Owner of  SubZero https://getsubz.xyz</h2>
+<h2 align="center">Hi 👋! My name is Blurzz and I'm a Developer. Owner of  Subz https://getsubz.xyz</h2>
 
 ###
 
@@ -31,6 +31,9 @@
 
 
 ###
+
+## 🛠️ Projects
+Currently my main project is Subz which is a lua executor for the game Roblox
 
 <br clear="both">
 
