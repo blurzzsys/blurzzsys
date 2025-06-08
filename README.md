@@ -35,6 +35,12 @@ Heres the main programing languages I know and am familiar with :
 ## 🛠️ Projects
 Currently my main project is Subz which is a lua executor for the game Roblox
 
+## 📜 About me
+I'm a developer in c# c++ lua and more. I have been programing for about 4 years. I love difficult tasks.
+
+## 👋 
+Thanks for visiting my profile. Cool snake thing below ⬇️
+
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
